@@ -3,7 +3,8 @@ Diplomityöni seurantaan ja versionhallintaan käytettävä repositorio.
 ## Rakenne
 
 - Työ on thesis/drafts kansiossa.
-- meetings kansiossa on muistiinpanot ohjaustapaamisista.
+- Muistiinpanot ohjaustapaamisista on meetings kansiossa.
+- Muutosloki alla.
 - Todo kohdassa seuraavat askeleet.
 
 ## Muutosloki
@@ -13,4 +14,4 @@ Diplomityöni seurantaan ja versionhallintaan käytettävä repositorio.
 
 ## Todo
 
-- [ ] Example task
+- [ ] Kontaktointi asiakasorganisaatioihin
