@@ -1,27 +1,27 @@
-# Meeting Template
+# Kokouspohja
 
-## Meeting Details
-- Date:
-- Time:
-- Attendees:
-- Topic:
+## Kokouksen tiedot
+- Päivämäärä:
+- Aika:
+- Osallistujat:
+- Teema:
 
-## Agenda
-- [ ] Topic 1
-- [ ] Topic 2
-- [ ] Topic 3
+## Esityslista
+- [ ] Aihe 1
+- [ ] Aihe 2
+- [ ] Aihe 3
 
-## Discussion Summary
-- Key points discussed:
-- Feedback received:
-- Decisions made:
+## Keskustelun yhteenveto
+- Keskustelussa käsitellyt keskeiset asiat:
+- Saadut palautteet:
+- Tehdyt päätökset:
 
-## Action Items
-- [ ] Action item 1
-- [ ] Action item 2
-- [ ] Action item 3
+## Toimenpiteet
+- [ ] Toimenpide 1
+- [ ] Toimenpide 2
+- [ ] Toimenpide 3
 
-## Follow-up
-- Next meeting date:
-- Deadlines:
-- Questions to investigate:
+## Seuranta
+- Seuraavan kokouksen päivämäärä:
+- Määräajat:
+- Tutkimisen arvoiset kysymykset:
