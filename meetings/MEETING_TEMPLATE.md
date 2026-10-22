@@ -1,8 +1,7 @@
-# Kokouspohja
+# Esimerkki muistiinpanosta
 
-## Kokouksen tiedot
+## Tapaamisen tiedot
 - Päivämäärä:
-- Aika:
 - Osallistujat:
 - Teema:
 
@@ -21,7 +20,7 @@
 - [ ] Toimenpide 2
 - [ ] Toimenpide 3
 
-## Seuranta
+## 
 - Seuraavan kokouksen päivämäärä:
 - Määräajat:
 - Tutkimisen arvoiset kysymykset:
