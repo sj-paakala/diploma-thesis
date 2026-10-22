@@ -14,4 +14,4 @@ Diplomityöni seurantaan ja versionhallintaan käytettävä repositorio.
 
 ## Todo
 
-- [ ] Kontaktointi asiakasorganisaatioihin
+- [ ] Kontaktointi asiantuntijaorganisaatioihin
