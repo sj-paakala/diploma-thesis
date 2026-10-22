@@ -11,6 +11,7 @@ Diplomityöni seurantaan ja versionhallintaan käytettävä repositorio.
 
 1. Perustettu repositorio
 2. Siirretty Word-dokumentti repoon
+3. Kirjoitettu Introduction kappaleeseen hieman asiaa.
 
 ## Todo
 
