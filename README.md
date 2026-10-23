@@ -9,6 +9,7 @@ Diplomityöni seurantaan ja versionhallintaan käytettävä repositorio.
 
 ## Muutosloki
 
+22/10/2026
 1. Perustettu repositorio
 2. Siirretty Word-dokumentti repoon
 3. Kirjoitettu Introduction kappaleeseen hieman asiaa.
